@@ -1,0 +1,54 @@
+.gpt3__blog {
+    display: flex;
+    justify-content: space-around;
+    margin: 0.5rem;
+}
+
+.gpt3__blog-groupB {
+    margin-bottom: 0.5rem;
+
+}
+
+.gpt3__blogcontent-img img {
+    width: 400px;
+}
+
+.gpt3__blogcontent-container-content {
+    display: flex;
+    flex-direction: column;
+
+    background: var(--color-footer);
+
+}   
+
+
+.gpt3__blogcontent-container {
+    width: 430px;
+    padding: 10px;
+    background: var(--color-footer);
+    border-radius: 0.5rem;
+}
+
+
+.gpt3__blogcontent-date {
+    color: white;
+    font-family: var(--font-family);
+    font-weight: 800;
+}
+
+.gpt3__blogcontent-title {
+    color: white;
+    font-family: var(--font-family);
+    font-weight: 800;
+    margin-top: 1.5rem;
+}
+
+.gpt3__blogcontent-container p {
+    color: white;
+    font-family: var(--font-family);
+    margin-top: 2rem;
+}
+
+.gpt3__blogcontent-content p {
+    margin-bottom: 2rem;
+}

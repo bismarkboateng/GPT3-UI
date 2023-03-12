@@ -1,0 +1,50 @@
+.gpt3__CTA {
+    border: 1px solid white;
+
+    margin: 5rem;
+    border-radius: 0.6rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.gpt3__CTA {
+    background: var(--gradient-bar);
+}
+
+.gpt3__CTA-content {
+    margin: 2.5rem;
+}
+
+
+
+.gpt3__CTA-btn {
+    margin: 2.5rem;
+}
+
+.gpt3__CTA-content h3 {
+    margin-top: 1rem;
+    font-family: var(--font-family);
+    font-weight: 800;
+}
+
+.gpt3__CTA-content p {
+    font-family: var(--font-family);
+    font-weight: 500;
+}
+
+.gpt3__CTA-btn {
+    padding: 2px;
+}
+
+.gpt3__CTA-btn button {
+    padding: 1rem 2rem;
+    border-radius: 40px;
+
+    font-family: var(--font-family);
+    color: white;
+    background: var(--color-bg);
+    outline: 0;
+    border: 0;
+    font-weight: 800;
+}
