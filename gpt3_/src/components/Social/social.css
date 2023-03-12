@@ -1,0 +1,9 @@
+.gpt3__socials {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gpt3__socials-image img {
+    margin-left: 5rem;
+}
