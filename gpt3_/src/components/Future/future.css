@@ -1,0 +1,26 @@
+.gpt3__future {
+    display: flex;
+    justify-content: space-between;
+    margin: 5.5rem;
+}
+
+.gpt3__future-text p {
+    margin-top: 2rem;
+    font-family: var(--font-family);
+    font-weight: 800;
+}
+
+.gpt3__future-text h1 {
+    font-family: var(--font-family);
+}
+
+
+.gpt3__future-blog {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.gpt3__extract-text {
+    margin-bottom: 2rem;
+}

@@ -1,0 +1,80 @@
+.gpt3__footer {
+    background: var(--color-footer);
+
+    /* border: 1px solid red; */
+}
+
+
+
+.gpt3__footer-info {
+    margin: 5rem 10rem 0 10rem;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.gpt3__footer-title h1 {
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-size: 50px;
+    margin-top: 3rem;
+}
+
+
+.gpt3__footer-btn {
+    margin-top: 2rem;
+}
+
+.gpt3__footer-btn button {
+    padding: 1rem  2rem;
+    border-radius: 0.5rem;
+    outline: 0;
+    background: var(--color-footer);
+    color: white;
+    font-family: var(--font-family);
+    font-weight: 500;
+    border: 0;
+    outline: 1px solid white;
+}
+
+
+.gpt3__footer-links {
+    margin: 7rem 6rem 0 6rem;
+    padding: 3rem;
+    display: flex;
+    justify-content: space-between;
+
+    color: white;
+}
+
+.gpt3__footer-logo p{
+    padding: 1.5rem 0 0 0;
+}
+
+
+.gpt3__footer-actual__links h5 {
+    margin-bottom: 1rem;
+    font-family: var(--font-family);
+}
+
+.gpt3__footer-actual__links p {
+    margin-bottom: 1rem;
+    font-family: var(--font-family);
+}
+
+.gpt3__footer-company h5, p {
+    margin-bottom: 1rem;
+    font-family: var(--font-family);
+}
+
+.gpt3__footer-intouch h5, p{
+    margin-bottom: 1rem;
+    font-family: var(--font-family);
+}
+
+.gpt3__footer-copyright {
+    margin-bottom: 1rem;
+    font-family: var(--font-family);
+}
