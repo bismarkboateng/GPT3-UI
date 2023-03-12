@@ -1,0 +1,28 @@
+.gpt3__imaginations-image img {
+    width: 700px;
+}
+
+
+.gpt3__imaginations {
+    margin: 2rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+.gpt3__imaginations-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.gpt3__imaginations-content p {
+    margin: 2rem 0 2rem 0;
+    font-family: var(--font-family);
+}
+
+.gpt3__imaginations-sample {
+    color: var(--color-text);
+}
+
